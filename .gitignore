@@ -1,0 +1,14 @@
+# Block all binary audio payloads and cache matrices
+outputs/*
+temp/*
+samples/*
+models/*
+*.wav
+*.mp3
+*.m4a
+
+# Ignore localized environment layers and bytecode
+__pycache__/
+*.pyc
+egregore_env/
+.DS_Store

@@ -1,0 +1,29 @@
+{
+  "target_metadata": {
+    "name": "Lancy Lough",
+    "aliases": ["Chairman", "Mayor of the Codebase", "Master Tattooist"],
+    "vocal_pacing": "calculated_deliberate",
+    "dominant_archetype": "charismatic_magician"
+  },
+  "neuro_linguistic_markers": {
+    "representational_system": "visual_auditory_mix",
+    "subconscious_triggers": [
+      {"trigger": "workbench_authority", "impact": "establishes technical compliance"},
+      {"trigger": "creative_flow", "impact": "disarms logical skepticism"}
+    ],
+    "hypnotic_anchors": [
+      "Look at the baseline blueprint here",
+      "Let that ink settle into the framework"
+    ]
+  },
+  "speech_patterns": {
+    "common_phrases": [
+      "Refactor the ink, clean the lines.",
+      "The workbench visualizer doesn't lie.",
+      "We are drawing permanent architecture here.",
+      "Let's see what the data reveals."
+    ],
+    "crutch_words": ["fundamentally", "essentially", "watch this space"],
+    "cadence_pauses": ["...", ", listen carefully,"]
+  }
+}
